@@ -473,7 +473,7 @@ export default function Home() {
                     lineHeight: 1.2,
                   }}
                 >
-                  Hi, I&apos;m Alex Shaw
+                  Hi, I&apos;m Cindy Wendel
                   {/* Job title with gradient effect */}
                   <Typography
                     variant="h2"
