@@ -327,7 +327,7 @@ export default function Home() {
             <Toolbar sx={{ justifyContent: "space-between" }}>
               {/* Your name/logo */}
               <Typography variant="h6" fontWeight="bold" color="text.primary">
-                <Box component="span" sx={{ color: theme.palette.primary.main }}>Cindy</Box><Wendel></Wendel>
+                <Box component="span" sx={{ color: theme.palette.primary.main }}>Cindy</Box>Wendel
               </Typography>
               
               <Box sx={{ display: 'flex', alignItems: 'center' }}>
